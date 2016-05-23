@@ -1,4 +1,4 @@
-FROM gregkeys21
+FROM gregkeys21/docker-compose-machine-awscli:latest
 
 MAINTAINER Greg Keys <gregkeys@gmail.com>
 
